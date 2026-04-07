@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#006C4C</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#89F8C7</color>
+    <color name="onPrimaryContainer">#002114</color>
+
+    <color name="secondary">#4D6357</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#CFE9D9</color>
+    <color name="onSecondaryContainer">#092016</color>
+
+    <color name="surface">#FBFDF9</color>
+    <color name="onSurface">#191C1A</color>
+    <color name="surfaceVariant">#DBE5DD</color>
+    <color name="onSurfaceVariant">#404943</color>
+
+    <color name="outline">#707973</color>
 </resources>
